@@ -8,5 +8,5 @@ se n1>0 and n2>0:
     risultato = n1*n2
     scrivi risultato
 altrimenti:
-    scrivi "I numeri devono essere positivi"
+    scrivi "I numeri devono essere positivi!"
 FINE
